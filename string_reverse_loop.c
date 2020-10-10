@@ -1,3 +1,4 @@
+/*program to reverse the string using loops*/
 #include<stdio.h>
 main()
 {
@@ -5,7 +6,7 @@ main()
     int i,j;
     printf("Enter the string\n");
     scanf("%s",s);
-    for(i=0;s[i];i++);
+    for(i=0;s[i];hi++);
 
     for(i=i-1,j=0;i>j;i--,j++)
     {

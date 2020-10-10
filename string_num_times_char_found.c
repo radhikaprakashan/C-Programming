@@ -19,7 +19,7 @@ main()
     }
     if(j>0)
     {
-        printf("%c is present %d times\n",ch,j);
+        printf("%c is present %d times in the string\n",ch,j);
     }
     else
     {
